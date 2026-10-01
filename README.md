@@ -158,17 +158,4 @@ All Python dependencies are listed in `requirements.txt`. Key dependencies:
 
 ---
 
-## PROJECT INFORMATION
-
-| Field | Value |
-|-------|-------|
-| Project | PFA — Filière 4CIRM |
-| School | EMSI Casablanca |
-| Tool | TriageMind Unified Security Pipeline |
-| Version | 1.0.0 |
-| AI Model | Google Gemini |
-| Report Standard | OWASP WSTG v4.2 + PTES |
-
----
-
 *TriageMind Unified Security Pipeline v1.0 — EMSI Casablanca — Educational Security Research*
